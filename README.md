@@ -42,3 +42,6 @@ https://crontab.guru
 
 ## Find vs grep
 find is where, grep is looking inside
+
+## Free https certificate
+https://certbot.eff.org/
